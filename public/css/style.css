@@ -1,0 +1,32 @@
+body{
+	
+}
+
+#video-list .panel-body{
+	padding-left: 0;
+}
+
+.video-image-mask{
+	width: 100%;
+	height: auto;
+	overflow:hidden;
+}
+
+.video-image-mask .video-image,
+#video-player{
+	width: 100%;
+}
+
+.video-title{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.video-title a{
+	color:#444;
+}
+
+.btn-filter{
+	display: block;
+	margin-top:5px;
+}
